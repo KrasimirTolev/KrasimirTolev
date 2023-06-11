@@ -2,8 +2,6 @@
 - 👀 I’m interested in programing with python
 - 🌱 I’m currently learning programing
 - 📫 You can reach me on my Instagram: krasimir_tolev and my email: ktolev10@gmail.com
-- 🔥 My Stats :
-GitHub Streak
 
 Top Langs
 
